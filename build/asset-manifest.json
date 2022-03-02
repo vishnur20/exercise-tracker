@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/excercise-tracker/static/css/main.c0b778cd.css",
+    "main.js": "/excercise-tracker/static/js/main.d87648bc.js",
+    "index.html": "/excercise-tracker/index.html",
+    "main.c0b778cd.css.map": "/excercise-tracker/static/css/main.c0b778cd.css.map",
+    "main.d87648bc.js.map": "/excercise-tracker/static/js/main.d87648bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0b778cd.css",
+    "static/js/main.d87648bc.js"
+  ]
+}
